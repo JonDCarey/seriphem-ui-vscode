@@ -1,0 +1,77 @@
+{
+  "workbench.colorTheme": "Base16 Ocean",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#24282e",
+
+    "tab.inactiveBackground": "#24282e",
+    "editorGroup.border": "#636876",
+    "editorGroupHeader.tabsBackground": "#24282e",
+
+    "breadcrumb.foreground": "#636876",
+    "breadcrumbPicker.background": "#24282e",
+
+    "window.activeBorder": "#2B303B",
+    "focusBorder":"#ff000000",
+    "editorLineNumber.foreground": "#636876",
+    "editorLineNumber.activeForeground": "#C0C5CE",
+    "editorIndentGuide.activeBackground": "#C0C5CE",
+    "editorIndentGuide.background": "#414651",
+
+    "activityBar.background": "#24282e",
+
+    "sideBar.background": "#24282e",
+    "sideBar.foreground": "#636876",
+    "sideBar.border": "#2B303B",
+    "sideBarSectionHeader.foreground": "#C0C5CE",
+    "sideBarSectionHeader.background": "#414651",
+    "list.focusOutline": "#4e525e",
+    "list.activeSelectionBackground": "#4e525e",
+    "list.activeSelectionForeground": "#C0C5CE",
+    "list.hoverBackground": "#414651",
+    "list.inactiveSelectionForeground": "#C0C5CE",
+    "list.inactiveSelectionBackground": "#414651",
+
+    "input.background": "#24282e",
+    "button.background": "#65737E",
+
+    "terminal.foreground": "#b7bbc5",
+    "terminal.ansiBlue": "#8FA1B3",
+    "terminal.ansiCyan": "#96B5B4",
+    "terminal.ansiGreen": "#A3BE8C",
+    "terminal.ansiMagenta": "#B48EAD",
+    "terminal.ansiRed": "#BF616A",
+    "terminal.ansiYellow": "#EBCB8B",
+
+    "statusBar.background" : "#4a4d53",
+    "statusBar.noFolderBackground" : "#2B303B",
+    "statusBar.debuggingBackground": "#BF616A",
+    
+    "gitDecoration.untrackedResourceForeground": "#636876",
+    "gitDecoration.addedResourceForeground": "#636876"
+  },
+  "editor.bracketPairColorization.enabled": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.lightbulb.enabled": "off",
+  "editor.lineDecorationsWidth": 25,
+  "editor.padding.top": 20,
+  "editor.folding": false,
+  "editor.renderLineHighlight": "none",
+  "editor.matchBrackets": "never",
+  "workbench.startupEditor": "none",
+  "editor.wordWrap": "on",
+  "json.format.keepLines": true,
+  "editor.autoIndent": "keep",
+  "window.newWindowDimensions": "offset",
+  "files.restoreUndoStack": false,
+  "editor.smoothScrolling": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.activityBar.location": "top",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "[javascript]": {
+    "editor.maxTokenizationLineLength": 2500
+  }
+}
